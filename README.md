@@ -10,12 +10,10 @@
 * Relatos de Experiência do Ensino de Matrizes Através da Programação em Blocos com Alunos do Ensino Técnico de Sistemas em Telecomunicações (ENCompIF 2019, [disponível na Biblioteca Digital da Sociedade Brasileira de Computação](https://sol.sbc.org.br/index.php/encompif/article/view/7218))
 
 #### 🪄 Possuo conhecimentos em:
-##### Linguagens de Programação e Sistemas de Banco de Dados
 ![Static Badge](https://img.shields.io/badge/python-%23ffffff?style=for-the-badge&logo=python&logoColor=white&labelColor=%233776AB)
 ![Static Badge](https://img.shields.io/badge/java-%23ffffff?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/postgresql-%23ffffff?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=%234169E1)
 
-##### Ferramentas e Tecnologias
 ![Static Badge](https://img.shields.io/badge/databricks-%23ffffff?style=for-the-badge&logo=databricks&logoColor=white&labelColor=%23FF3621)
 ![Static Badge](https://img.shields.io/badge/jupyter-%23ffffff?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=%23F37626)
 ![Static Badge](https://img.shields.io/badge/google%20colab-%23ffffff?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=%23F9AB00)
@@ -24,7 +22,6 @@
 ![Static Badge](https://img.shields.io/badge/git-%23ffffff?style=for-the-badge&logo=git&logoColor=white&labelColor=%23F05032)
 ![Static Badge](https://img.shields.io/badge/markdown-%23ffffff?style=for-the-badge&logo=markdown&logoColor=white&labelColor=%23000000)
 
-##### Bibliotecas e Frameworks
 ![Static Badge](https://img.shields.io/badge/scipy-%23ffffff?style=for-the-badge&logo=scipy&logoColor=white&labelColor=%238CAAE6)
 ![Static Badge](https://img.shields.io/badge/scikit--learn-%23ffffff?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=%23F7931E)
 ![Static Badge](https://img.shields.io/badge/statsmodels-%23ffffff?style=for-the-badge)
@@ -42,7 +39,6 @@
 ![Static Badge](https://img.shields.io/badge/jinja-%23ffffff?style=for-the-badge&logo=jinja&logoColor=white&labelColor=%23B41717)
 ![Static Badge](https://img.shields.io/badge/fastapi-%23ffffff?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=%23009688)
 
-##### Ferramentas
 ![Static Badge](https://img.shields.io/badge/postman-%23ffffff?style=for-the-badge&logo=postman&logoColor=white&labelColor=%23FF6C37)
 ![Static Badge](https://img.shields.io/badge/slack-%23ffffff?style=for-the-badge&logo=slack&logoColor=white&labelColor=%234A154B)
 ![Static Badge](https://img.shields.io/badge/trello-%23ffffff?style=for-the-badge&logo=trello&logoColor=white&labelColor=%230052CC)
