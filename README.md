@@ -45,6 +45,8 @@
 ![Static Badge](https://img.shields.io/badge/slack-%23ffffff?style=for-the-badge&logo=slack&logoColor=white&labelColor=%234A154B)
 ![Static Badge](https://img.shields.io/badge/trello-%23ffffff?style=for-the-badge&logo=trello&logoColor=white&labelColor=%230052CC)
 ![Static Badge](https://img.shields.io/badge/canva-%23ffffff?style=for-the-badge&logo=canva&logoColor=white&labelColor=%2300C4CC)
+![Static Badge](https://img.shields.io/badge/latex-%23ffffff?style=for-the-badge&logo=latex&logoColor=white&labelColor=%23008080)
+![Static Badge](https://img.shields.io/badge/overleaf-%23ffffff?style=for-the-badge&logo=overleaf&logoColor=white&labelColor=%2347A141)
 
 #### 🔮 Estou explorando e aprendendo:
 ![Static Badge](https://img.shields.io/badge/keras-%23ffffff?style=for-the-badge&logo=keras&logoColor=white&labelColor=%23D00000)
@@ -52,14 +54,12 @@
 ![Static Badge](https://img.shields.io/badge/microsoft%20azure-%23ffffff?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=%230078D4)
 ![Static Badge](https://img.shields.io/badge/docker-%23ffffff?style=for-the-badge&logo=docker&logoColor=white&labelColor=%232496ED)
 ![Static Badge](https://img.shields.io/badge/gnu%20bash-%23ffffff?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=%234EAA25)
-![Static Badge](https://img.shields.io/badge/latex-%23ffffff?style=for-the-badge&logo=latex&logoColor=white&labelColor=%23008080)
-![Static Badge](https://img.shields.io/badge/overleaf-%23ffffff?style=for-the-badge&logo=overleaf&logoColor=white&labelColor=%2347A141)
+![Static Badge](https://img.shields.io/badge/amazon%20web%20services-%23ffffff?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=%23232F3E)
 
 #### 🎓 Possuo interesse em aprender:
 ![Static Badge](https://img.shields.io/badge/pytorch-%23ffffff?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=%23EE4C2C)
 ![Static Badge](https://img.shields.io/badge/mlflow-%23ffffff?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=%230194E2)
 ![Static Badge](https://img.shields.io/badge/apache%20airflow-%23ffffff?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=%23017CEE)
-![Static Badge](https://img.shields.io/badge/amazon%20web%20services-%23ffffff?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=%23232F3E)
 ![Static Badge](https://img.shields.io/badge/google%20cloud-%23ffffff?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=%234285F4)
 ![Static Badge](https://img.shields.io/badge/jenkins-%23ffffff?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=%23D24939)
 ![Static Badge](https://img.shields.io/badge/kubernetes-%23ffffff?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=%23326CE5)
@@ -68,6 +68,8 @@
 ![Static Badge](https://img.shields.io/badge/julia-%23ffffff?style=for-the-badge&logo=julia&logoColor=white&labelColor=%239558B2)
 ![Static Badge](https://img.shields.io/badge/mysql-%23ffffff?style=for-the-badge&logo=mysql&logoColor=white&labelColor=%234479A1)
 ![Static Badge](https://img.shields.io/badge/django-%23ffffff?style=for-the-badge&logo=django&logoColor=white&labelColor=%23092E20)
+![Static Badge](https://img.shields.io/badge/apache%20cassandra-%23ffffff?style=for-the-badge&logo=apachecassandra&logoColor=white&labelColor=%231287B1)
+![Static Badge](https://img.shields.io/badge/redis-%23ffffff?style=for-the-badge&logo=redis&logoColor=white&labelColor=%23FF4438)
 
 #### 🖱️ Já utilizei ou utilizo os seguintes sistemas operacionais:
 ![Static Badge](https://img.shields.io/badge/windows-%23ffffff?style=for-the-badge&logo=windows&logoColor=white&labelColor=%230078D4)
