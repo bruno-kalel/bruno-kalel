@@ -12,7 +12,9 @@
 #### 🪄 Possuo conhecimentos em:
 ![Static Badge](https://img.shields.io/badge/python-%23ffffff?style=for-the-badge&logo=python&logoColor=white&labelColor=%233776AB)
 ![Static Badge](https://img.shields.io/badge/java-%23ffffff?style=for-the-badge)
+
 ![Static Badge](https://img.shields.io/badge/postgresql-%23ffffff?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=%234169E1)
+![Static Badge](https://img.shields.io/badge/mongodb-%23ffffff?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=%2347A248)
 
 ![Static Badge](https://img.shields.io/badge/databricks-%23ffffff?style=for-the-badge&logo=databricks&logoColor=white&labelColor=%23FF3621)
 ![Static Badge](https://img.shields.io/badge/jupyter-%23ffffff?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=%23F37626)
@@ -65,7 +67,6 @@
 ![Static Badge](https://img.shields.io/badge/r-%23ffffff?style=for-the-badge&logo=r&logoColor=white&labelColor=%23276DC3)
 ![Static Badge](https://img.shields.io/badge/julia-%23ffffff?style=for-the-badge&logo=julia&logoColor=white&labelColor=%239558B2)
 ![Static Badge](https://img.shields.io/badge/mysql-%23ffffff?style=for-the-badge&logo=mysql&logoColor=white&labelColor=%234479A1)
-![Static Badge](https://img.shields.io/badge/mongodb-%23ffffff?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=%2347A248)
 ![Static Badge](https://img.shields.io/badge/django-%23ffffff?style=for-the-badge&logo=django&logoColor=white&labelColor=%23092E20)
 
 #### 🖱️ Já utilizei ou utilizo os seguintes sistemas operacionais:
