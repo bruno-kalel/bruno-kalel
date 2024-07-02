@@ -55,11 +55,11 @@
 ![Static Badge](https://img.shields.io/badge/docker-%23ffffff?style=for-the-badge&logo=docker&logoColor=white&labelColor=%232496ED)
 ![Static Badge](https://img.shields.io/badge/gnu%20bash-%23ffffff?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=%234EAA25)
 ![Static Badge](https://img.shields.io/badge/amazon%20web%20services-%23ffffff?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=%23232F3E)
+![Static Badge](https://img.shields.io/badge/apache%20airflow-%23ffffff?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=%23017CEE)
 
 #### 🎓 Possuo interesse em aprender:
 ![Static Badge](https://img.shields.io/badge/pytorch-%23ffffff?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=%23EE4C2C)
 ![Static Badge](https://img.shields.io/badge/mlflow-%23ffffff?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=%230194E2)
-![Static Badge](https://img.shields.io/badge/apache%20airflow-%23ffffff?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=%23017CEE)
 ![Static Badge](https://img.shields.io/badge/google%20cloud-%23ffffff?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=%234285F4)
 ![Static Badge](https://img.shields.io/badge/jenkins-%23ffffff?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=%23D24939)
 ![Static Badge](https://img.shields.io/badge/kubernetes-%23ffffff?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=%23326CE5)
