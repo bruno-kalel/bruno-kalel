@@ -43,5 +43,5 @@ Check out the ones below.
 | - | - |
 | [in/bruno-kalel](https://www.linkedin.com/in/bruno-kalel/) | [bruno22070061@aluno.cesupa.br](mailto:bruno22070061@aluno.cesupa.br) |
 
-### ❇️ And before I head out... let's address the elephant in the room: the missing green dots!
+### ❇️ Wondering about the green dots?
 I gave my repos a fresh start, so the green dots decided to take a vacation. No stress, though, it’s all about what you build, not how many dots are there.
