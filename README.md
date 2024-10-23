@@ -34,6 +34,10 @@ Check out the ones below.
 
 ### 👍 Currently diving into:
 ![Static Badge](https://img.shields.io/badge/pytorch-%23ffffff?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=%23EE4C2C)
+![Static Badge](https://img.shields.io/badge/bert%20encoder--only%20transformer-%23ffffff?style=for-the-badge&logo=google&logoColor=white&labelColor=%234285F4)
+![Static Badge](https://img.shields.io/badge/gpt%20decoder--only%20transformer-%23ffffff?style=for-the-badge&logo=openai&logoColor=white&labelColor=%23412991)
+![Static Badge](https://img.shields.io/badge/t5%20encoder--decoder%20transformer-%23ffffff?style=for-the-badge&logo=google&logoColor=white&labelColor=%234285F4)
+![Static Badge](https://img.shields.io/badge/hugging%20face-%23ffffff?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=%23FFD21E)
 
 ### 💪 What's next on my radar:
 ![Static Badge](https://img.shields.io/badge/github%20actions-%23ffffff?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=%232088FF) ![Static Badge](https://img.shields.io/badge/mlflow-%23ffffff?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=%230194E2) ![Static Badge](https://img.shields.io/badge/terraform-%23ffffff?style=for-the-badge&logo=terraform&logoColor=white&labelColor=%23844FBA)
