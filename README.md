@@ -1,6 +1,6 @@
 ### 👋 [Oba](https://youtube.com/watch?v=98NZXcarUiw), thanks for dropping by my GitHub profile!
 
-> ### 👨‍🚀 Looking for details on my experience and certifications? Take a peek at my resume [here](https://www.linkedin.com/in/bruno-kalel/details/experience/).
+> ### 👨‍🚀 Looking for details on my experience and certifications? Take a peek at my resume [here](https://github.com/bruno-kalel/bruno-kalel/tree/main/details).
 
 ## 🛰️ I’m all about Data Science and Ops (Operations), especially when they cross paths.
 
