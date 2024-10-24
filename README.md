@@ -2,7 +2,7 @@
 
 > ### 👨‍🚀 Looking for details on my experience and certifications? Take a peek at my resume [here](https://github.com/bruno-kalel/bruno-kalel/tree/main/details).
 
-## 🛰️ I’m all about Data Science and Ops (Operations), especially when they cross paths.
+## 🛰️ I’m all about Artificial Untelligence and Ops (Operations), especially when they cross paths.
 
 ### 🛸 I can communicate in:
 - ⚽️ Portuguese (native)
