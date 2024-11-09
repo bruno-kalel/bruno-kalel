@@ -3,7 +3,7 @@
 ## 🛰️ I’m all about Artificial Intelligence and Ops (Operations), especially when they cross paths.
 I'm a Computer Science student with experience in Artificial Intelligence, Software Engineering, academic research, and project management. I’m passionate about tackling complex problems, exploring new technologies, and diving into challenging projects.
 
-> ### 👨‍🚀 Looking for details on my experience and certifications? Take a peek [here](https://www.linkedin.com/in/bruno-kalel/details/experience/).
+> ### 👨‍🚀 Looking for details on my experience and certifications? Take a peek [here](https://www.canva.com/design/DAGV9Vmx-Jg/piq4aQW46jxrUoKIv_98tg/edit?utm_content=DAGV9Vmx-Jg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
 ### 🛸 I can communicate in:
 - ⚽️ Portuguese (native)
