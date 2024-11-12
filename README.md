@@ -1,7 +1,6 @@
 ### 👋 Opa, thanks for dropping by my GitHub profile!
 
 ## 🛰️ I’m all about Artificial Intelligence and Ops (Operations), especially when they cross paths.
-I'm a Computer Science student with experience in Artificial Intelligence, Software Engineering, academic research, and project management. I’m passionate about tackling complex problems, exploring new technologies, and diving into challenging projects.
 
 > ### 👨‍🚀 Looking for details on my experience and certifications? Take a peek at my resume [here](https://www.linkedin.com/in/bruno-kalel/details/featured/).
 
